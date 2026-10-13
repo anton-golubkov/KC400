@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with BasicAirData GPS Logger for Android - ver. 3.3.0 -->
+<!-- Track 2 = 0 TrackPoints + 51 Placemarks -->
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+  <name>GPS Logger 20261012-102309</name>
+  <description><![CDATA[0 Trackpoints + 51 Placemarks]]></description>
+  <Style id="PlacemarkStyle">
+   <IconStyle>
+    <Icon><href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href></Icon>
+   </IconStyle>
+  </Style>
+
+  <Placemark id="1">
+   <name>434</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.54652833,56.34823667,133.900</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="2">
+   <name>432</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.54579167,56.34859167,119.600</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="3">
+   <name>430</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.54525000,56.34898000,147.800</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="4">
+   <name>428</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.54456667,56.34931167,151.100</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="5">
+   <name>428а</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.54395167,56.34971667,136.700</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="6">
+   <name>424</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.54320500,56.35017667,155.800</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="7">
+   <name>422</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.54266667,56.35042333,146.400</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="8">
+   <name>420</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.54204000,56.35077833,138.000</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="9">
+   <name>418</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.54155333,56.35111833,130.100</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="10">
+   <name>416</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.54084167,56.35144833,143.100</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="11">
+   <name>414</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.54022667,56.35180167,168.300</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="12">
+   <name>412</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.53968167,56.35213833,141.500</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="13">
+   <name>410</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.53909167,56.35249333,142.400</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="14">
+   <name>408</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.53853833,56.35284833,136.000</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="15">
+   <name>406</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.53786500,56.35320000,134.600</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="16">
+   <name>404</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.53725500,56.35346500,140.600</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="17">
+   <name>402</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.53661500,56.35384000,141.500</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="18">
+   <name>400</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.53601000,56.35423500,142.200</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="19">
+   <name>398</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.53542833,56.35451167,167.600</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="20">
+   <name>396</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.53473833,56.35496333,146.800</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="21">
+   <name>394</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.53413667,56.35534833,135.200</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="22">
+   <name>392</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.53341667,56.35573167,141.600</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="23">
+   <name>390</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.53275667,56.35618333,139.300</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="24">
+   <name>388</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.53202167,56.35649500,148.100</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="25">
+   <name>386а</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.53127333,56.35681667,152.800</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="26">
+   <name>384</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.53060667,56.35726167,145.200</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="27">
+   <name>382</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.52994667,56.35758500,151.100</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="28">
+   <name>380</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.52933333,56.35793333,143.200</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="29">
+   <name>378</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.52874667,56.35828500,142.000</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="30">
+   <name>376 плохо слышно</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.52807667,56.35864500,144.600</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="31">
+   <name>374</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.52726333,56.35910667,146.600</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="32">
+   <name>372</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.52671167,56.35943333,146.100</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="33">
+   <name>370</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.52613167,56.35974333,143.100</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="34">
+   <name>368</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.52547667,56.36011667,158.200</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="35">
+   <name>366</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.52483500,56.36045833,146.600</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="36">
+   <name>364</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.52431667,56.36073833,134.900</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="37">
+   <name>362</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.52364667,56.36114833,145.300</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="38">
+   <name>360</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.52306000,56.36145000,136.000</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="39">
+   <name>358</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.52247167,56.36182667,140.900</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="40">
+   <name>356</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.52187667,56.36217667,143.500</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="41">
+   <name>354</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.52134667,56.36250167,140.500</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="42">
+   <name>352</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.52072833,56.36278833,136.400</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="43">
+   <name>350</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.52009500,56.36313167,139.400</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="44">
+   <name>348</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.51959333,56.36346333,140.400</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="45">
+   <name>346</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.51894500,56.36381833,136.300</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="46">
+   <name>344</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.51836833,56.36419500,137.500</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="47">
+   <name>342</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.51753500,56.36458833,135.200</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="48">
+   <name>340</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.51699500,56.36488333,126.900</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="49">
+   <name>338</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.51624167,56.36529833,128.000</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="50">
+   <name>336</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.51560667,56.36566333,136.800</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+  <Placemark id="51">
+   <name>334</name>
+   <styleUrl>#PlacemarkStyle</styleUrl>
+   <Point>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>41.51488500,56.36599000,140.400</coordinates>
+    <extrude>1</extrude>
+   </Point>
+  </Placemark>
+
+ </Document>
+</kml>
+ 
